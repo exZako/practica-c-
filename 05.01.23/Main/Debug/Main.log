@@ -1,0 +1,5 @@
+﻿  Cbrt.cpp
+  Main.cpp
+C:\Users\Student\Desktop\practica\Main\Main.cpp(33,27): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода...
+  Main.vcxproj -> C:\Users\Student\Desktop\practica\Debug\Main.exe

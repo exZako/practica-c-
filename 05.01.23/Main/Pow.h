@@ -1,0 +1,1 @@
+long double numberPow(short int numberA, unsigned short int numberB);
